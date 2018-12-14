@@ -1,0 +1,18 @@
+.post{
+    width: 50%;
+    text-align: left;
+    background-color: #f3f3f3;
+    padding: 15px;
+    border-left: 3px solid #58b7ae;
+    color: #4e4d4d;
+    margin-bottom: 20px
+}
+
+.post-container{
+    display: flex;
+    justify-content: center;
+}
+.post-title {
+    text-transform: uppercase;
+    font-style: italic;
+}

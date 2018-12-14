@@ -1,0 +1,17 @@
+.right-bar{
+    display: flex
+}
+
+.my-a{
+    margin-right: 5px;
+    letter-spacing: 2px;
+    font-weight: 100;
+    padding-top: 11px;
+    cursor: pointer;
+}
+  
+.my-icon{
+    margin-right: 10px !important;  
+    margin-left: 10px;
+    padding-top: 15px !important;
+}
